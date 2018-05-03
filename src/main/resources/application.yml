@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+#      host: 127.0.0.1
+#      port: 27017
+#      database: mongo_tutorial
+      uri: mongodb://127.0.0.1:27017/mongo_tutorial
